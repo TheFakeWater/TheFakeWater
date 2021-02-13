@@ -13,4 +13,5 @@
 
 <p align="center">
 <a href="https://github.com/TheFakeWater/CountryPy"><img title="CountryPy" src="https://github-readme-stats.vercel.app/api/pin/?username=TheFakeWater&repo=CountryPy&theme=dark"></a>
+<a href="https://github.com/TheFakeWater/VideoToAsciiPlayer"><img title="CountryPy" src="https://github-readme-stats.vercel.app/api/pin/?username=TheFakeWater&repo=VideoToAsciiPlayer&theme=dark"></a>
 </p>
